@@ -1,0 +1,41 @@
+# Node modules
+/node_modules/
+
+# Build output
+/build/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+/coverage/
+
+# Production
+*.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# JetBrains (WebStorm)
+/.idea/
+/*.iml
+/out/
+
+# Editor-specific
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# CRA
+.cache/
+*.log
+*.tsbuildinfo
+.pnp/
+.pnp.js
