@@ -4,17 +4,7 @@
   "homepage": "https://esolshevskaya.github.io/Unsplash-Search",
   "private": true,
   "dependencies": {
-    "axios": "^1.7.9",
-    "cra-template": "1.2.0",
-    "leaflet": "^1.9.4",
-    "normalize.css": "^8.0.1",
-    "prop-types": "^15.8.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-leaflet": "^5.0.0",
-    "react-scripts": "5.0.1",
-    "react-select": "^5.10.0",
-    "web-vitals": "^4.2.4"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
