@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Unsplash-Search/static/css/main.abdef6b3.css",
+    "main.js": "/Unsplash-Search/static/js/main.c4c797bc.js",
+    "static/media/Montserrat-Regular.ttf": "/Unsplash-Search/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "index.html": "/Unsplash-Search/index.html",
+    "main.abdef6b3.css.map": "/Unsplash-Search/static/css/main.abdef6b3.css.map",
+    "main.c4c797bc.js.map": "/Unsplash-Search/static/js/main.c4c797bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abdef6b3.css",
+    "static/js/main.c4c797bc.js"
+  ]
+}
