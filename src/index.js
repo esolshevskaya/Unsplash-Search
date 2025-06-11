@@ -72,7 +72,6 @@ window.onload = () => {
         actions.children[2].disabled = (page >= totalPage);
     }
 
-
     async function loadImages() {
         const query = searchInput.value.trim();
         if (!query) return;
@@ -124,12 +123,13 @@ window.onload = () => {
             loadImages();
         }
     };
+    
     const lastQuery = localStorage.getItem(LAST_QUERY_KEY);
 
     if (lastQuery) {
         searchInput.value = lastQuery;
-        page = 1;
-        loadImages();
-    }
+    } else {
+        searchInput.value = 'кот';
+    loadImages();
 
 };
