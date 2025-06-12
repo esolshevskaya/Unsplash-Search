@@ -1,6 +1,6 @@
 ## Unsplash Image Search App
 
-Ссылка на веб-сайт: https://esolshevskaya.github.io/Unsplash-Search/
+**Ссылка на веб-сайт:** https://esolshevskaya.github.io/Unsplash-Search/
 
 ### Описание проекта
 
